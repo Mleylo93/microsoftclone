@@ -1,0 +1,81 @@
+@charset "utf-8";
+
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  text-align: center;
+  padding: auto;
+  font-family: sans-serif;
+  
+}
+.navBar {
+  display: flex;
+  max-height: 20vh;
+  min-width: 50vh;
+  flex-wrap:wrap;
+  justify-content: flex-start;
+  margin-left:140px;
+}
+.nav1 {background: white; padding-right:30px; padding-top: 4px;}
+.nav2 {background: white;padding-right:30px; padding-top: 9px;}
+.nav3 {background: white;padding-right:30px; padding-top: 9px;}
+.nav4 {background: white;padding-right:30px; padding-top: 9px;}
+.nav5 {background: white;padding-right:30px; padding-top: 9px;}
+.nav6 {background: white;padding-right:30px; padding-top: 9px;}
+.nav7 {background: white;padding-right:30px; padding-top: 9px;}
+.nav8 {background: white;padding-right:30px; padding-top: 9px;}
+.nav9 {background: white;padding-right:30px; padding-top: 9px; margin-left: 497px;}
+.nav10 {background: white;padding-right:30px; padding-top: 9px;}
+.nav11 {background: white;padding-right:30px; padding-top: 9px;}
+
+.mainImage{padding-right:30px; padding-top: 10px; margin-left: 140px;}
+.box2 {
+  color: rgb(83, 9, 9);
+  font-size: 12px;
+  text-align: center;
+  padding: auto;
+  font-family: sans-serif;
+  
+}
+
+.productBar{
+  display:flex;
+  max-height:20vh;
+  flex-wrap: wrap;
+  justify-content: flext-start;
+  margin-left: 280px;
+  padding-top: 30px;
+}
+
+.prod1 {background: white; padding-right:30px; padding-top: 9px;}
+.prod2 {background: white;padding-right:30px; margin-left: 40px; padding-top: 9px;}
+.prod3 {background: white;padding-right:30px; margin-left:40px; padding-top: 9px;}
+.prod4 {background: white;padding-right:30px; margin-left:40px; padding-top: 9px;}
+.prod5{background: white;padding-right:30px; margin-left: 40px; padding-top: 9px;}
+.prod6{background: white;padding-right:30px; margin-left: 40px; padding-top: 9px;}
+
+.box3 {
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  text-align: center;
+  padding: auto;
+  font-family: sans-serif;
+}
+.secondBar{
+  display: flex;
+  max-height: 20vh;
+  min-width: 50vh;
+  flex-wrap:wrap;
+  justify-content: flex-start;
+  
+
+}
+
+.sec1 {background: white; padding-right:0px; padding-top: 30px; margin-left:85px; padding-left: ;}
+.sec2 {background: white;padding-right:10px; padding-top: 30px;}
+.sec3 {background: white;padding-right:30px; padding-top: 30px;}
+
